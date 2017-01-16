@@ -1,0 +1,24 @@
+header{
+  display: block;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  background-color: lightgreen;
+  margin-top: 0px;
+}
+.container {
+  width: 900px;
+  margin: 0 auto;
+  }
+  .okay{
+  width: 530px;
+  height: 300px;
+  display: inline-block;
+  }
+  img.herocard {
+      position: relative;
+      bottom: 304px;
+      left: 530px;
+      width: 400px;
+      height: 300px;
+  }
